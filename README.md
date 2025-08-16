@@ -1,4 +1,3 @@
-# HACK-V4
 -- LocalScript (StarterPlayerScripts)
 
 local Players = game:GetService("Players")
@@ -110,4 +109,4 @@ speedBtn.MouseButton1Click:Connect(function()
         humanoid.WalkSpeed = normalSpeed
         speedBtn.Text = "Boost Speed: OFF"
     end
-end)
+end) 
